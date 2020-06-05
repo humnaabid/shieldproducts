@@ -1,0 +1,68 @@
+.navbar-expand-lg{
+    background-color:royalblue !important;
+    height: 70px;
+     
+        /* position: fixed;
+        top: 0px;
+        left: 0px;
+        margin: 0px;
+        padding: 10px;
+        width: 100%;
+        background-color: #efefef;
+        z-index: 10; */
+}
+.navbar-nav{
+    font-weight: bold;
+}
+
+
+.card{
+    background-color: lightskyblue !important;
+    border: maroon solid;
+    text-align: center;
+    margin:30PX AUTO  ;
+   
+    
+}
+H1{
+    color: maroon;
+    text-align: center;
+    margin-top: 30PX;
+    text-shadow: black 2PX 2PX 1PX ;
+}
+.card-text{
+    font-weight: BOLD !important;
+}
+footer{
+    background-color: royalblue;
+    padding: 10PX;
+   
+    font-weight: bold;
+}
+p{
+    line-height: 1.5em;
+    font-size: 35px;
+    text-align: center;
+}
+body{
+    background-image:url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-031.jpg);
+   
+    
+}
+.card-text{
+    font-size: 20px;
+}
+.btn-primary{
+    width: 70%;
+}
+.CONTECT{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: white;
+    padding: 20PX;
+    width: 100%;
+}
+
